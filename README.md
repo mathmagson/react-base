@@ -1,3 +1,20 @@
+# React Fundamentals
+
+This project is a introduction to React.
+
+You'll find:
+
+- Get to know JSX
+- Loading CSS
+- Create components
+- Adding properties to components
+- Creating component with child
+- Rendering components from an array
+- Conditional rendering
+- Direct and indirect communication
+- Component with state
+- Controlled Components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
